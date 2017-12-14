@@ -5,8 +5,8 @@
     "vnetName": { "value": "cyclevnet" },
     "adminJbIPName": { "value": "adminjb_ip" },
     "cycleIPName": { "value": "cycleserver_ip" },
-    "cycleDownloadUri": { "value": "<to be filled>" },
-    "cycleLicenseSas": {"value": "<to be filled>"},
-    "rsaPublicKey": { "value": "ssh-rsa <your key>" }
+    "cycleDownloadUri": { "value": "https://cycleclouddownload.blob.core.windows.net/cyclecloud661" },
+    "cycleLicenseSas": {"value": "se=2018-01-31&sp=r&sv=2017-04-17&sr=b&sig=ti2GD3KwKh2PS05NW15KUm9ijGnfpDhZjimL3cSrNbE%"},
+    "rsaPublicKey": { "value": "ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQC41fjOnCcwGpxHRryB3ayDhyMlIIKBPlvGC9g9O1Bh3iowwiFAhzlQLfERqHSab7ok5WekN2NHkCSKE7qLDZ5MKA2bYH0/tM3xt8yRHEq/SMTcy0dp5dnbdsyw4WoJpAoY9vENIOi1FhUdJLvn6pC2N6uyhaLtLajsROalHrTzCDhTliMhHdAlp6T+JyxLOrKHkJtExLm6scId+L9L3jhC9amR4kRHNHyg2ElLY2MW0ik8u1+G+Uxw8Jmv3VykxaGQV/WBeuA1EQAsOQ3Yr0eawzvMmVmy9MkTg9aZiCwQ8tnVTNIin/TGU2ScX1aqriYZ1FGOZX96wJvOpQcCzmNd kpodesta" }
   }
 }
